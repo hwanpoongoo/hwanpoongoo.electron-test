@@ -1,12 +1,21 @@
 # hwanpoongoo.electron-test
 
+
+
+
 # ELECTRON
 데스크톱 어플리케이션을 웹기술만으로! 
+
+
+
 
 # ELECTRON 이란 ?
 데스크톱 어플리케이션을 쉽게!
 kamranahmedse - https://github.com/kamranahmedse/developer-roadmap
 일렉트론 - html+css + javascript (앵귤러/리액트/뷰도 가능!) -> 데스크톱 앱으로! 빠르지?
+
+
+
 
 # 그거 많이들 쓰나? 
 스카이프,깃데탑,vscoce -> help > 토글디벨로퍼 뭐시기 
@@ -14,24 +23,37 @@ kamranahmedse - https://github.com/kamranahmedse/developer-roadmap
 여러분이 등록도 가능
 https://www.electronjs.org/apps
 
+
+
+
 # 데스크톱 어플리케이션 만들때 일렉트론쓰면 왜 좋은데?
 1. 크로스 플랫폼임  
 윈도우, 리눅스, 맥과도 호환 -> 리눅스개발자 / 윈도우 개발자 / 맥팀 만드는건 어려움 - 걍 웹팀하나만 있음됨
+
 1. 쿨한 api 제공 
 웹말고 데스크톱 앱에서 해야하는것들 ? 자동 업데이트 /네이티브 메뉴/알람 /버그리포트 , /윈도우 인스톨러...
+
 1. 노드기반임 
 npm 쌉가능 자바스크립트 오픈소스 다가져와
+
 1. 웹으로 개발한 소스 
 수정쪼금하면 사용가능
+
+
+
 
 # 안좋은건 뭔데?
 1. 큰 용량.. 
 크로미움/노드가 포함되므로헬로월드도 미니멈 100메가
+
 1. 네이티브 앱에 비해 느려!
 당연히 네이티브 코드로 만든 프로그램에 비해 속도/메모리 가볍x
 
 
+
+
 ###그치만.. 그러기엔 장점이 너무커서 많이들씀
+
 
 
 # 자료는 이곳이 제일 좋다
@@ -45,7 +67,10 @@ samples - API usage
 
 일렉트론의 내부구조는 ?
 
-## 어떻게 시작할까...?
+
+
+
+# 어떻게 시작할까...?
 
 다 파악해야할까? -> https://pks2974.medium.com/electron-%EA%B0%84%EB%8B%A8-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0-e1aa1fb3d81
 
@@ -77,6 +102,7 @@ Angular - https://github.com/maximegris/angular-electron
 
 		
 #진짜해보자 
+
 ###퀵스타트
 3줄이면 끝!	
 
@@ -89,6 +115,7 @@ $ npm start
 	
 여기서 소스좀 고쳐서 해보자~
 	
+
 
 #빌드는 어떻게 해?
 굳이 어렵게 할필요는 없자너 ?
