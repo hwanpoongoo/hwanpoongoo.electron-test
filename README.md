@@ -4,8 +4,8 @@
 <br>
 <br>
 # ELECTRON 이란 ?
-데스크톱 어플리케이션을 쉽게!
-kamranahmedse 양반의 기술로드맵
+데스크톱 어플리케이션을 쉽게!  
+kamranahmedse 양반의 기술로드맵  
 https://github.com/kamranahmedse/developer-roadmap
 
 일렉트론 = html+css + javascript (앵귤러/리액트/뷰도 가능!) -> 데스크톱 앱으로! 빠르지?
