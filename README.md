@@ -82,9 +82,9 @@ html의 경우
 </html>
 ```
 
-Vue - https://github.com/SimulatedGREG/electron-vue
-React - https://github.com/electron-react-boilerplate/electron-react-boilerplate
-Angular - https://github.com/maximegris/angular-electron
+Vue - https://github.com/SimulatedGREG/electron-vue  
+React - https://github.com/electron-react-boilerplate/electron-react-boilerplate  
+Angular - https://github.com/maximegris/angular-electron  
 
 
 
@@ -106,12 +106,12 @@ $ npm start
 
 <br>
 # 빌드는 어떻게 해?
-굳이 어렵게 할필요는 없자너 ?
+굳이 어렵게 할필요는 없자너 ?  
 Third-Party Package Tool을 사용해보자 !
  
-electron-builder  https://github.com/electron-userland/electron-builder
-electron-forge  https://github.com/electron-userland/electron-forge
-electron-packager https://github.com/electron/electron-packager
+electron-builder  https://github.com/electron-userland/electron-builder  
+electron-forge  https://github.com/electron-userland/electron-forge  
+electron-packager https://github.com/electron/electron-packager  
 
 
 
@@ -120,9 +120,10 @@ npm install yarn -g                // yarn 사용을 위해 npm으로부터 다�
 yarn add electron-builder --dev    // yarn을 통해 electron-builder를 다운로드받자 (--dev를 꼭 붙여주자 devDependency , dependency어디에 넣을것인지 정함. dev에 넣어줘야 잘동작)
 ```
 
-<br>
-다음을 추가하자
+<br>  
+다음을 추가하자  
 ### package-json
+
 ```swift
  "build" :{
     "appId": "your.id"
