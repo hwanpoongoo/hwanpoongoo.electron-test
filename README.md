@@ -12,7 +12,7 @@ kamranahmedse - https://github.com/kamranahmedse/developer-roadmap
 # 그거 많이들 쓰나? 
 스카이프,깃데탑,vscoce -> help > 토글디벨로퍼 뭐시기 
 <br>
-##일렉트론 앱스토어
+## 일렉트론 앱스토어
 여러분이 등록도 가능
 https://www.electronjs.org/apps
 <br>
@@ -39,7 +39,9 @@ npm 쌉가능 자바스크립트 오픈소스 다가져와
 당연히 네이티브 코드로 만든 프로그램에 비해 속도/메모리 가볍x
 <br>
 <br>
-###그치만.. 그러기엔 장점이 너무커서 많이들씀
+
+### 그치만.. 그러기엔 장점이 너무커서 많이들씀
+
 <br>
 # 자료는 이곳이 제일 좋다
 https://github.com/sindresorhus/awesome-electron
@@ -55,7 +57,7 @@ samples - API usage
 
 다 파악해야할까? -> https://pks2974.medium.com/electron-%EA%B0%84%EB%8B%A8-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0-e1aa1fb3d81
 
-###Boilerplate , start Template를 활용해보자
+### Boilerplate , start Template를 활용해보자
 
 html + java스크립트로만 개발하면 공수가 쥰내들겠지 ?
 react / view를 써보렴 -> 보일러플레이트
@@ -66,15 +68,16 @@ ex)객체지향 프로그래밍 ->  getter ,setter
 
 html의 경우
 ```swift
-		<!DOCTYPE html>
-		<html>
-		<head>
-		 <meta charset="utf-8">
-		 <title></title>
-		</head>
-		<body>
-		</body>
-		</html>
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta charset="utf-8">
+	<title>
+	</title>
+	</head>
+	<body>
+	</body>
+</html>
 ```
 
 Vue - https://github.com/SimulatedGREG/electron-vue
@@ -84,9 +87,9 @@ Angular - https://github.com/maximegris/angular-electron
 
 
 		
-#진짜해보자 
+# 진짜해보자 
 
-###퀵스타트
+### 퀵스타트
 3줄이면 끝!	
 
 ```swift
@@ -100,7 +103,7 @@ $ npm start
 	
 
 <br>
-#빌드는 어떻게 해?
+# 빌드는 어떻게 해?
 굳이 어렵게 할필요는 없자너 ?
 Third-Party Package Tool을 사용해보자 !
  
@@ -114,13 +117,18 @@ electron-packager https://github.com/electron/electron-packager
 npm install yarn -g                // yarn 사용을 위해 npm으로부터 다운로드받자
 yarn add electron-builder --dev    // yarn을 통해 electron-builder를 다운로드받자 (--dev를 꼭 붙여주자 devDependency , dependency어디에 넣을것인지 정함. dev에 넣어줘야 잘동작)
 ```
+
 <br>
 다음을 추가하자
-###package-json
+### package-json
+```swift
  "build" :{
     "appId": "your.id"
   }
-  <br>
+```
+
+<br>
+  
 ```swift
 yarn electron-builder
 ```
