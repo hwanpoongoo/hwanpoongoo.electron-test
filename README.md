@@ -20,7 +20,7 @@ https://www.electronjs.org/apps
 <br>
 <br>
 # 데스크톱 어플리케이션 만들때 일렉트론쓰면 왜 좋은데?
-### 크로스 플랫폼임  
+- ### 크로스 플랫폼임  
 윈도우, 리눅스, 맥과도 호환 -> 리눅스개발자 / 윈도우 개발자 / 맥팀 만드는건 어려움 - 걍 웹팀하나만 있음됨
 <br>
 * ### 쿨한 api 제공 
@@ -110,7 +110,7 @@ $ npm start
 굳이 어렵게 할필요는 없자너 ?  
 Third-Party Package Tool을 사용해보자 !
  
-electron-builder  https://github.com/electron-userland/electron-builder  
+> electron-builder  https://github.com/electron-userland/electron-builder  
 electron-forge  https://github.com/electron-userland/electron-forge  
 electron-packager https://github.com/electron/electron-packager  
 
@@ -122,9 +122,10 @@ yarn add electron-builder --dev    // yarn을 통해 electron-builder를 다운�
 ```
 
 <br>  
-다음을 추가하자  
-### package-json
 
+다음을 추가하자  
+
+### package-json  
 ```swift
  "build" :{
     "appId": "your.id"
