@@ -44,18 +44,19 @@ npm 쌉가능 자바스크립트 오픈소스 다가져와
 
 ### 그치만.. 그러기엔 장점이 너무커서 많이들씀
 
-<br>
-# 자료는 이곳이 제일 좋다
-https://github.com/sindresorhus/awesome-electron
-일렉트론 관련 자료들이 잘 정리되어있다!
+<br>  
+# 자료는 이곳이 제일 좋다  
+https://github.com/sindresorhus/awesome-electron  
+일렉트론 관련 자료들이 잘 정리되어있다!  
 
-open source/closed source
-boilerplates
-samples - API usage
-<br>
+open source/closed source  
+boilerplates  
+samples - API usage  
+
+<br>  
 일렉트론의 내부구조는 ?
 
-# 어떻게 시작할까...?
+# 어떻게 시작할까...?  
 
 다 파악해야할까? -> https://pks2974.medium.com/electron-%EA%B0%84%EB%8B%A8-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0-e1aa1fb3d81
 
