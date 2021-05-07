@@ -105,11 +105,11 @@ $ npm start
 여기서 소스좀 고쳐서 해보자~
 	
 
-<br>
-# 빌드는 어떻게 해?
+<br>  
+# 빌드는 어떻게 해?  
 굳이 어렵게 할필요는 없자너 ?  
-Third-Party Package Tool을 사용해보자 !
- 
+Third-Party Package Tool을 사용해보자 !  
+   
 > electron-builder  https://github.com/electron-userland/electron-builder  
 electron-forge  https://github.com/electron-userland/electron-forge  
 electron-packager https://github.com/electron/electron-packager  
