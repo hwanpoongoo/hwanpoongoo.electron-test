@@ -1,22 +1,29 @@
 
 # ELECTRON
 ![electron-logo](https://user-images.githubusercontent.com/80228504/117521003-68c4d100-afe6-11eb-96fd-393e8e975e7f.PNG)
-데스크톱 어플리케이션을 웹기술만으로!    
 
-# ELECTRON 이란 ?
-데스크톱 어플리케이션을 쉽게!  
-kamranahmedse 양반의 기술로드맵  
-https://github.com/kamranahmedse/developer-roadmap
 
+# 서론   
+  
+kamranahmedse 양반의 개발자 로드맵을보자    
+https://github.com/kamranahmedse/developer-roadmap   
+
+`데스크톱 어플리케이션을 만들고 싶으면, 일렉트론을 배워라`
+
+
+# 왜 일렉트론을 써야할까?
+
+## 웹개발자가 쉽게 만들수있다   
+![구성요소](https://user-images.githubusercontent.com/80228504/117521049-a590c800-afe6-11eb-84f3-30940510b165.PNG)
 일렉트론 = html+css + javascript (앵귤러/리액트/뷰도 가능!) -> 데스크톱 앱으로! 빠르지?   
 
-# 그거 많이들 쓰나?   
+## 이미 많은 데스크톱 어플리케이션이 일렉트론을 통해 구현되었다   
 스카이프,깃데탑,vscoce -> help > 토글디벨로퍼 뭐시기 
 
-## 일렉트론 앱스토어   
+## 많은 레퍼런스들이 있다   
 여러분이 등록도 가능
-https://www.electronjs.org/apps
-
+https://www.electronjs.org/apps   
+https://github.com/sindresorhus/awesome-electron    
 
 # 일렉트론의 장/단점   
    
@@ -46,10 +53,6 @@ npm 쌉가능 자바스크립트 오픈소스 다가져와
    
 ### 그치만.. 그러기엔 장점이 너무커서 많이들씀
 
-<br>  
-# 자료는 이곳이 제일 좋다  
-https://github.com/sindresorhus/awesome-electron  
-일렉트론 관련 자료들이 잘 정리되어있다!  
 
 open source/closed source  
 boilerplates  
