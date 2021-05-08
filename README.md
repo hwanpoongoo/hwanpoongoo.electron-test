@@ -11,11 +11,27 @@ https://github.com/kamranahmedse/developer-roadmap
 `데스크톱 어플리케이션을 만들고 싶으면, 일렉트론을 배워라`
 
 
-# 왜 일렉트론을 써야할까?
+# ELECTRON 이란?
+
+> HTML, CSS, 자바스크립트를 사용해 크로스 플랫폼 데스크탑 애플리케이션을 만들기 위해 GitHub에서 개발한 오픈 소스 라이브러리
+
+> Atom 에디터를 만들면서 공개한 오픈소스
+
+
+## 활용 사례
+![캡처](https://user-images.githubusercontent.com/80228504/117521720-30bf8d00-afea-11eb-8816-349fe48bd382.PNG)
+
+더많은 사례를 확인 할수 있다
+https://www.electronjs.org/apps
+
+
+
+
+
 
 ## 웹개발자가 쉽게 만들수있다   
 ![구성요소](https://user-images.githubusercontent.com/80228504/117521049-a590c800-afe6-11eb-84f3-30940510b165.PNG)
-일렉트론 = html+css + javascript (앵귤러/리액트/뷰도 가능!) -> 데스크톱 앱으로! 빠르지?   
+`html + css + javascript만 알면 데스크톱 어플리케이션을 만들수있다`    
 
 ## 이미 많은 데스크톱 어플리케이션이 일렉트론을 통해 구현되었다   
 스카이프,깃데탑,vscoce -> help > 토글디벨로퍼 뭐시기 
