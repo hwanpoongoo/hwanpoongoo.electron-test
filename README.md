@@ -11,10 +11,10 @@ https://github.com/kamranahmedse/developer-roadmap
    
    
 # 1. ELECTRON 이란?   
-## 1-1. 뜻
-> HTML, CSS, 자바스크립트를 사용해 크로스 플랫폼 데스크탑 애플리케이션을 만들기 위해 GitHub에서 개발한 오픈 소스 라이브러리
-
-##1-2. 역사
+## 1-1. 뜻   
+> HTML, CSS, 자바스크립트를 사용해 크로스 플랫폼 데스크탑 애플리케이션을 만들기 위해 GitHub에서 개발한 오픈 소스 라이브러리   
+   
+## 1-2. 역사   
 > Atom 에디터를 만들면서 공개한 오픈소스   
 
 ```
@@ -25,8 +25,8 @@ https://github.com/kamranahmedse/developer-roadmap
 2016년 5월 20일, 일렉트론은 패키지된 앱을 맥 앱 스토어로 제출할 수 있게 허용하였다.
 2016년 8월 2일,  일렉트론 앱의 윈도우 스토어 지원이 추가되었다.
 ```
-
-## 1-3. 구조
+   
+## 1-3. 구조   
 ![캡처2](https://user-images.githubusercontent.com/80228504/117522077-49c93d80-afec-11eb-8fda-417fc6e81746.PNG)   
 + 크로미움 - 오픈소스 웹브라우저   - 프론트엔드 
 - NODE JS - 자바스크립트 실행 런타임 환경   - 백엔드
