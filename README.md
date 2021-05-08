@@ -18,25 +18,25 @@ https://github.com/kamranahmedse/developer-roadmap
 > Atom 에디터를 만들면서 공개한 오픈소스
 
 
-## 활용 사례
+
+
+
+# 일렉트론이 끌리는 이유?    
+
+## 1. 웹개발 친화적 개발환경   
+![구성요소](https://user-images.githubusercontent.com/80228504/117521049-a590c800-afe6-11eb-84f3-30940510b165.PNG)   
+`html + css + javascript만 알면 데스크톱 어플리케이션을 만들수있다`    
+
+## 2. 많은 성공적인 사례   
 ![캡처](https://user-images.githubusercontent.com/80228504/117521720-30bf8d00-afea-11eb-8816-349fe48bd382.PNG)   
 
 더많은 사례를 확인 할수 있다   
 https://www.electronjs.org/apps
 
 
-
-## 일렉트론이 끌리는 이유?    
-
-### 1. 웹개발 친화적 개발환경   
-![구성요소](https://user-images.githubusercontent.com/80228504/117521049-a590c800-afe6-11eb-84f3-30940510b165.PNG)   
-`html + css + javascript만 알면 데스크톱 어플리케이션을 만들수있다`    
-
-### 2. 많은 성공적인 사례   
-스카이프,깃데탑,vscoce -> help > 토글디벨로퍼 뭐시기 
-
-### 3. 많은 레퍼런스   
+## 3. 많은 레퍼런스   
 https://github.com/sindresorhus/awesome-electron    
+
 
 # 일렉트론의 장/단점   
    
