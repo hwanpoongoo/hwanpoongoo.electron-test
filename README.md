@@ -11,7 +11,7 @@ https://github.com/kamranahmedse/developer-roadmap
    
    
 # 1. ELECTRON 이란?   
-## 1-1. 뜻   
+## 1-1. 정의   
 > HTML, CSS, 자바스크립트를 사용해 크로스 플랫폼 데스크탑 애플리케이션을 만들기 위해 GitHub에서 개발한 오픈 소스 라이브러리   
    
 ## 1-2. 역사   
