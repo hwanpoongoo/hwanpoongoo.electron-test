@@ -10,13 +10,13 @@ https://github.com/kamranahmedse/developer-roadmap
 `데스크톱 어플리케이션을 만들고 싶으면, 일렉트론을 배워라`
    
    
-# ELECTRON 이란?   
-## 뜻
+# 1. ELECTRON 이란?   
+## 1-1. 뜻
 > HTML, CSS, 자바스크립트를 사용해 크로스 플랫폼 데스크탑 애플리케이션을 만들기 위해 GitHub에서 개발한 오픈 소스 라이브러리
 
 > Atom 에디터를 만들면서 공개한 오픈소스
 
-## 구조
+## 1-2. 구조
 ![캡처2](https://user-images.githubusercontent.com/80228504/117522077-49c93d80-afec-11eb-8fda-417fc6e81746.PNG)   
 + 크로미움 - 오픈소스 웹브라우저    
 - NODE JS - 자바스크립트 실행 런타임 환경   
@@ -26,24 +26,24 @@ https://github.com/kamranahmedse/developer-roadmap
  
    
 
-# 일렉트론이 끌리는 이유?    
-## 1. 웹개발 친화적 개발환경   
+# 2. 일렉트론이 끌리는 이유?    
+## 2-1. 웹개발 친화적 개발환경   
 ![구성요소](https://user-images.githubusercontent.com/80228504/117521049-a590c800-afe6-11eb-84f3-30940510b165.PNG)      
 `html + css + javascript만 알면 데스크톱 어플리케이션을 만들수있다`     
    
-## 2. 많은 성공적인 사례   
+## 2-2. 많은 성공적인 사례   
 ![캡처](https://user-images.githubusercontent.com/80228504/117521720-30bf8d00-afea-11eb-8816-349fe48bd382.PNG)    
 더많은 사례를 확인 할수 있다   
 https://www.electronjs.org/apps
    
-## 3. 많은 레퍼런스    
+## 2-3. 많은 레퍼런스    
 https://github.com/sindresorhus/awesome-electron     
 
    
       
-# 일렉트론의 장/단점   
+# 3. 일렉트론의 장/단점   
    
-## 장점    
+## 3-1. 장점    
 ```swift
 - 크로스 플랫폼임  
 윈도우, 리눅스, 맥과도 호환 -> 리눅스개발자 / 윈도우 개발자 / 맥팀 만드는건 어려움 - 걍 웹팀하나만 있음됨
@@ -58,7 +58,7 @@ npm 쌉가능 자바스크립트 오픈소스 다가져와
 수정쪼금하면 사용가능
 ```
 
-## 단점   
+## 3-2. 단점   
 ```swift
 - 큰 용량.. 
 크로미움/노드가 포함되므로헬로월드도 미니멈 100메가
@@ -77,7 +77,7 @@ samples - API usage
 <br>  
 일렉트론의 내부구조는 ?
 
-# 어떻게 시작할까...?  
+# 4. 어떻게 시작할까...?  
 
 다 파악해야할까? -> https://pks2974.medium.com/electron-%EA%B0%84%EB%8B%A8-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0-e1aa1fb3d81
 
@@ -111,9 +111,9 @@ Angular - https://github.com/maximegris/angular-electron
 
 
 		
-# 진짜해보자 
+# 5. 실습 
 
-### 퀵스타트
+### "Hello World"를 출력해보자 
 3줄이면 끝!	
 
 ```swift
