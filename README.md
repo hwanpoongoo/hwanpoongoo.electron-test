@@ -4,40 +4,36 @@
 
 
 # 서론   
-  
 kamranahmedse 양반의 개발자 로드맵을보자    
 https://github.com/kamranahmedse/developer-roadmap   
 
 `데스크톱 어플리케이션을 만들고 싶으면, 일렉트론을 배워라`
-
-
-# ELECTRON 이란?
-
+   
+   
+# ELECTRON 이란?   
 > HTML, CSS, 자바스크립트를 사용해 크로스 플랫폼 데스크탑 애플리케이션을 만들기 위해 GitHub에서 개발한 오픈 소스 라이브러리
 
 > Atom 에디터를 만들면서 공개한 오픈소스
 
 
-
-
+   
+   
 
 # 일렉트론이 끌리는 이유?    
-
 ## 1. 웹개발 친화적 개발환경   
-![구성요소](https://user-images.githubusercontent.com/80228504/117521049-a590c800-afe6-11eb-84f3-30940510b165.PNG)   
-`html + css + javascript만 알면 데스크톱 어플리케이션을 만들수있다`    
-
+![구성요소](https://user-images.githubusercontent.com/80228504/117521049-a590c800-afe6-11eb-84f3-30940510b165.PNG)      
+`html + css + javascript만 알면 데스크톱 어플리케이션을 만들수있다`     
+   
 ## 2. 많은 성공적인 사례   
-![캡처](https://user-images.githubusercontent.com/80228504/117521720-30bf8d00-afea-11eb-8816-349fe48bd382.PNG)   
-
+![캡처](https://user-images.githubusercontent.com/80228504/117521720-30bf8d00-afea-11eb-8816-349fe48bd382.PNG)    
 더많은 사례를 확인 할수 있다   
 https://www.electronjs.org/apps
+   
+## 3. 많은 레퍼런스    
+https://github.com/sindresorhus/awesome-electron     
 
-
-## 3. 많은 레퍼런스   
-https://github.com/sindresorhus/awesome-electron    
-
-
+   
+      
 # 일렉트론의 장/단점   
    
 ## 장점    
