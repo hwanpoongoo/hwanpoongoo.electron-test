@@ -36,7 +36,7 @@ https://github.com/kamranahmedse/developer-roadmap
 👉 (공식문서) https://www.electronjs.org/docs/tutorial/quick-start   
 👉 (공식문서 요약/번역) https://velog.io/@ckstn0777/Electron-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0     
 👉 (이론 깔끔..) https://cyberx.tistory.com/206     
-   
+👉 프론트 / 백 통신 (IPC) https://m.blog.naver.com/sssang97/221818769601    
 
 # 2. 일렉트론이 끌리는 이유?    
 ## 2-1. 웹개발 친화적 개발환경   
