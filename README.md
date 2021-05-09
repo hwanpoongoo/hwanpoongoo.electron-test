@@ -32,7 +32,7 @@ https://github.com/kamranahmedse/developer-roadmap
 - NODE JS - 자바스크립트 실행 런타임 환경   - 백엔드
 * V8 - 자바스크립트 엔진    
 
-```상세하게 알고싶다면? 👉  https://velog.io/@ckstn0777/Electron-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0 ```
+```상세하게 알고싶다면?``` 👉  https://velog.io/@ckstn0777/Electron-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0 
  
    
 
