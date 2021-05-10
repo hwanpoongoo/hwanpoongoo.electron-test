@@ -56,7 +56,7 @@ https://github.com/sindresorhus/awesome-electron
 # 3. 일렉트론의 장/단점   
    
 ## 3-1. 장점    
-```
+```swift
 - 크로스 플랫폼     
 윈도우, 리눅스, 맥 구분없이 개발 가능   
 리눅스/윈도우/맥 개발자 전부 고용할것인가?  웹개발자만 있으면...   
