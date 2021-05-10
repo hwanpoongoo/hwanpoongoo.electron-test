@@ -186,13 +186,13 @@ $ npm start
 
 ## 파일/인스톨러 생성     
 Third-Party Package Tool을 사용해보자 !  
-   
+     
 > electron-builder  https://github.com/electron-userland/electron-builder  
 electron-forge  https://github.com/electron-userland/electron-forge  
 electron-packager https://github.com/electron/electron-packager  
 
 
-
+`electron-builder를 이용한 패키징`   
 ```
 npm install yarn -g                // yarn 사용을 위해 npm으로부터 다운로드받자
 yarn add electron-builder --dev    // yarn을 통해 electron-builder를 다운로드받자 (--dev를 꼭 붙여주자 devDependency , dependency어디에 넣을것인지 정함. dev에 넣어줘야 잘동작)
