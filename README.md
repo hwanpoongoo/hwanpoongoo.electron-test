@@ -3,7 +3,7 @@
 ![electron-logo](https://user-images.githubusercontent.com/80228504/117521003-68c4d100-afe6-11eb-96fd-393e8e975e7f.PNG)
 
 # 목차
-0. 서론   
+> 0. 서론   
 1. ELECTRON 이란?   
 2. 일렉트론이 인기있는 이유?   
 3. 일렉트론의 장/단점?   
