@@ -69,7 +69,7 @@ npm 가능.
 수정쪼금하면 사용가능   
 
 - 편리한 ELECTRON API
-데스크톱 앱에서만 쓰이는 기능
+데스크톱 앱에서만 쓰이는 기능이 무엇일지 생각해보자
 해당 기능을 편하게 쓸수있게 제공
 ```   
 API 관련 예제는 이 양반이 잘 정리해놓았다 👉 https://github.com/hokein/electron-sample-apps
