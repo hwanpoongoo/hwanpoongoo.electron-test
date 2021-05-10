@@ -109,11 +109,9 @@ hello world 파일 -> 미니멈 100메가, 인스톨러(nsis)도 55메가..
 
 ## 4.1 Boilerplate? , start Template?
 
-html + java스크립트로만 개발하면 공수가 쥰내들겠지 ?
-react / view를 써보렴 -> 보일러플레이트
 
-### Boilerplate : 상용구 라고도 함 
-최소한의 수정만을 거쳐 여러 곳에 필수적으로 사용되는 코드
+### Boilerplate : 상용구 라고도 함    
+상용구 : 최소한의 수정만을 거쳐 여러 곳에 필수적으로 사용되는 코드   
 
 `EX.1) 객체지향 프로그래밍`
 ```java
@@ -160,6 +158,10 @@ class Person{
 	</body>
 </html>
 ```
+
+단순 hello world를 뿌려주는 템플릿 ~
+크로스 브라우징과 호환성을 위한 Modernizr, polyfill, Normalize 등이 적용된 템플릿 ~
+등등..
 
 Vue - https://github.com/SimulatedGREG/electron-vue  
 React - https://github.com/electron-react-boilerplate/electron-react-boilerplate  
