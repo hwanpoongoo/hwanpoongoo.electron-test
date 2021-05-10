@@ -155,9 +155,10 @@ npm install yarn -g                // yarn 사용을 위해 npm으로부터 다�
 yarn add electron-builder --dev    // yarn을 통해 electron-builder를 다운로드받자 (--dev를 꼭 붙여주자 devDependency , dependency어디에 넣을것인지 정함. dev에 넣어줘야 잘동작)
 ```
 
-<br>  
-![일렉트론 빌더 설치](https://user-images.githubusercontent.com/80228504/117668078-8c536b80-b1e0-11eb-9d51-9582eba43db0.PNG)   
-![일렉트론빌더 yarn으로 설치후](https://user-images.githubusercontent.com/80228504/117668088-8eb5c580-b1e0-11eb-9e3e-6a7f523cc671.PNG)   
+<br>   
+   
+![일렉트론 빌더 설치](https://user-images.githubusercontent.com/80228504/117668078-8c536b80-b1e0-11eb-9d51-9582eba43db0.PNG)    
+![일렉트론빌더 yarn으로 설치후](https://user-images.githubusercontent.com/80228504/117668088-8eb5c580-b1e0-11eb-9e3e-6a7f523cc671.PNG)    
 
 
    
@@ -170,7 +171,7 @@ yarn add electron-builder --dev    // yarn을 통해 electron-builder를 다운�
   }
 ```
 
-![빌드 키값을 추가해주자](https://user-images.githubusercontent.com/80228504/117668675-22879180-b1e1-11eb-964e-454c831d67c6.PNG)   
+![빌드 키값을 추가해주자](https://user-images.githubusercontent.com/80228504/117668675-22879180-b1e1-11eb-964e-454c831d67c6.PNG)    
 
 
 <br>
@@ -181,8 +182,8 @@ yarn electron-builder
 <br>
 
 
-![패키징](https://user-images.githubusercontent.com/80228504/117668215-b0af4800-b1e0-11eb-8558-aa9b6de4ba1b.PNG)   
-![일렉트론빌더 패키징](https://user-images.githubusercontent.com/80228504/117668124-95443d00-b1e0-11eb-9d71-2d444653955c.PNG)   
+![패키징](https://user-images.githubusercontent.com/80228504/117668215-b0af4800-b1e0-11eb-8558-aa9b6de4ba1b.PNG)    
+![일렉트론빌더 패키징](https://user-images.githubusercontent.com/80228504/117668124-95443d00-b1e0-11eb-9d71-2d444653955c.PNG)    
 
 
 
