@@ -67,6 +67,10 @@ npm 가능.
    
 - 웹으로 개발한 소스    
 수정쪼금하면 사용가능   
+
+- 편리한 ELECTRON API
+데스크톱 앱에서만 쓰이는 기능
+해당 기능을 편하게 쓸수있게 제공
 ```   
 API 관련 예제는 이 양반이 잘 정리해놓았다 👉 https://github.com/hokein/electron-sample-apps
 
@@ -81,12 +85,8 @@ hello world 파일 -> 미니멈 100메가, 인스톨러(nsis)도 55메가..
 네이티브 코드로 만든 프로그램에 비해 속도/메모리 무겁다
 ```
    
-### 그치만.. 그러기엔 장점이 너무커서 많이들씀
+### 단점을 상쇄할만한 장점을 가졌다
 
-
-open source/closed source  
-boilerplates  
-samples - API usage  
 
 <br>  
 일렉트론의 내부구조는 ?
