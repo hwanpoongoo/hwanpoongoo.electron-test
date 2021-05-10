@@ -42,10 +42,10 @@ https://github.com/kamranahmedse/developer-roadmap
 * V8 - 자바스크립트 엔진    
 
 ```상세하게 알고싶다면?```    
-👉 (공식문서) https://www.electronjs.org/docs/tutorial/quick-start   
-👉 (공식문서 요약/번역) https://velog.io/@ckstn0777/Electron-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0     
-👉 (이론 깔끔..) https://cyberx.tistory.com/206     
-👉 프론트 / 백 통신 (IPC) https://m.blog.naver.com/sssang97/221818769601    
+ (공식문서) 👉 https://www.electronjs.org/docs/tutorial/quick-start   
+ (공식문서 중요부분 요약/번역) 👉 https://velog.io/@ckstn0777/Electron-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0     
+ main process <-> render process 이론 👉 https://cyberx.tistory.com/206     
+ main process <-> render process 통신 예제 (IPC) 👉 https://m.blog.naver.com/sssang97/221818769601    
 
 # 2. 일렉트론이 인기있는 이유?    
 ## 2-1. 웹개발자에게 좋은 접근성 
