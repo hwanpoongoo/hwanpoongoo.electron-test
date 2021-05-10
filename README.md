@@ -14,8 +14,8 @@ https://github.com/kamranahmedse/developer-roadmap
 ## 1-1. 정의   
 > HTML, CSS, 자바스크립트를 사용해 크로스 플랫폼 데스크탑 애플리케이션을 만들기 위해 GitHub에서 개발한 오픈 소스 라이브러리   
 
-일렉트론 활용 사례 👉 https://www.electronjs.org/apps
-
+일렉트론 활용 사례 👉 https://www.electronjs.org/
+트위치, 디스코드 슬랙 등등...
    
 ## 1-2. 역사   
 > Atom 에디터를 만들면서 공개한 오픈소스   
@@ -75,6 +75,8 @@ npm 가능.
 데스크톱 앱에서만 쓰이는 기능이 무엇일지 생각해보자
 해당 기능을 편하게 쓸수있게 제공
 ```   
+
+API doc 👉https://www.electronjs.org/
 API 관련 예제는 이 양반이 잘 정리해놓았다 👉 https://github.com/hokein/electron-sample-apps
 
 
