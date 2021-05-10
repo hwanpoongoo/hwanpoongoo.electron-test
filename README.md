@@ -2,8 +2,14 @@
 # ELECTRON
 ![electron-logo](https://user-images.githubusercontent.com/80228504/117521003-68c4d100-afe6-11eb-96fd-393e8e975e7f.PNG)
 
+#목차
+0.서론
+1.ELECTRON 이란?
+2.일렉트론이 인기있는 이유?
+3.일렉트론의 장/단점?
+4.일렉트론 
 
-# 서론   
+# 0. 서론   
 kamranahmedse 양반의 개발자 로드맵을보자    
 https://github.com/kamranahmedse/developer-roadmap   
 
@@ -41,7 +47,7 @@ https://github.com/kamranahmedse/developer-roadmap
 👉 (이론 깔끔..) https://cyberx.tistory.com/206     
 👉 프론트 / 백 통신 (IPC) https://m.blog.naver.com/sssang97/221818769601    
 
-# 2. 일렉트론이 끌리는 이유?    
+# 2. 일렉트론이 인기있는 이유?    
 ## 2-1. 웹개발자에게 좋은 접근성 
 ![구성요소](https://user-images.githubusercontent.com/80228504/117521049-a590c800-afe6-11eb-84f3-30940510b165.PNG)         
 `html + css + javascript만 알면 데스크톱 어플리케이션을 만들수있다`       
@@ -97,11 +103,12 @@ hello world 파일 -> 미니멈 100메가, 인스톨러(nsis)도 55메가..
 <br>  
 일렉트론의 내부구조는 ?
 
-# 4. 어떻게 시작할까...?  
+# 4. 일렉트론 가볍게 시작하기
 
-다 파악해야할까? -> https://pks2974.medium.com/electron-%EA%B0%84%EB%8B%A8-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0-e1aa1fb3d81
+이론을 다 파악 후, 시작해야할까? -> https://pks2974.medium.com/electron-%EA%B0%84%EB%8B%A8-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0-e1aa1fb3d81   
+그보다, 가볍게 만들어보자
 
-### Boilerplate , start Template를 활용해보자
+## 4.1 Boilerplate? , start Template?
 
 html + java스크립트로만 개발하면 공수가 쥰내들겠지 ?
 react / view를 써보렴 -> 보일러플레이트
@@ -128,11 +135,8 @@ Vue - https://github.com/SimulatedGREG/electron-vue
 React - https://github.com/electron-react-boilerplate/electron-react-boilerplate  
 Angular - https://github.com/maximegris/angular-electron  
 
-
-
 		
-# 5. 실습 
-
+##. 4.2 HELLO WORLD!  
 ### "Hello World"를 출력해보자 
 3줄이면 끝!	
 
@@ -148,8 +152,7 @@ $ npm start
 ![실행](https://user-images.githubusercontent.com/80228504/117667845-4e564780-b1e0-11eb-86e9-0dc2fedc8f80.PNG)     
 	
 
-# 빌드는 어떻게 해?  
-굳이 어렵게 할필요는 없자너 ?  
+## 파일/인스톨러 생성     
 Third-Party Package Tool을 사용해보자 !  
    
 > electron-builder  https://github.com/electron-userland/electron-builder  
@@ -211,7 +214,7 @@ yarn electron-builder
 앵간하면 그냥 경로에 한글이 안들어가게 하자...   
 
 
-# 완료
+### 최종 
 ![패키징 완료후 디렉터리구조](https://user-images.githubusercontent.com/80228504/117668246-b86eec80-b1e0-11eb-87a2-a3560daefee8.PNG)
 
 dist 폴더가 생성되고, 해당 폴더안에 인스톨러 / exe파일이 생성된다
