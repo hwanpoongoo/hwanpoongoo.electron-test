@@ -42,17 +42,18 @@ https://github.com/kamranahmedse/developer-roadmap
 👉 프론트 / 백 통신 (IPC) https://m.blog.naver.com/sssang97/221818769601    
 
 # 2. 일렉트론이 끌리는 이유?    
-## 2-1. 웹개발 친화적 개발환경   
-![구성요소](https://user-images.githubusercontent.com/80228504/117521049-a590c800-afe6-11eb-84f3-30940510b165.PNG)      
-`html + css + javascript만 알면 데스크톱 어플리케이션을 만들수있다`     
+## 2-1. 웹개발자에게 좋은 접근성 
+![구성요소](https://user-images.githubusercontent.com/80228504/117521049-a590c800-afe6-11eb-84f3-30940510b165.PNG)         
+`html + css + javascript만 알면 데스크톱 어플리케이션을 만들수있다`       
    
-## 2-2. 많은 성공적인 사례   
-![캡처](https://user-images.githubusercontent.com/80228504/117521720-30bf8d00-afea-11eb-8816-349fe48bd382.PNG)    
-더많은 사례를 확인 할수 있다   
-https://www.electronjs.org/apps
+## 2-2. 검증된 완성도   
+![캡처](https://user-images.githubusercontent.com/80228504/117521720-30bf8d00-afea-11eb-8816-349fe48bd382.PNG)       
+성공적인 활용사례가 이미 넘쳐남, 완성도 높은 프레임워크임이 입증    
+https://www.electronjs.org/apps   
    
-## 2-3. 많은 레퍼런스    
-https://github.com/sindresorhus/awesome-electron     
+## 2-3. 많은 레퍼런스       
+잘 정리된 예제 및 레퍼런스들이 활발히 공유   
+https://github.com/sindresorhus/awesome-electron       
 
    
       
