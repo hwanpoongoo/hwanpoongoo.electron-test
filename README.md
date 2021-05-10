@@ -101,7 +101,6 @@ hello world 파일 -> 미니멈 100메가, 인스톨러(nsis)도 55메가..
 
 
 <br>  
-일렉트론의 내부구조는 ?
 
 # 4. 일렉트론 가볍게 시작하기
 
@@ -113,12 +112,43 @@ hello world 파일 -> 미니멈 100메가, 인스톨러(nsis)도 55메가..
 html + java스크립트로만 개발하면 공수가 쥰내들겠지 ?
 react / view를 써보렴 -> 보일러플레이트
 
-보일러플레이트 : 상용구 라고도 함 
-위키피디아에 의하면... 최소한의 수정만을 거쳐 여러 곳에 필수적으로 사용되는 코드
-ex)객체지향 프로그래밍 ->  getter ,setter 
+### Boilerplate : 상용구 라고도 함 
+최소한의 수정만을 거쳐 여러 곳에 필수적으로 사용되는 코드
 
-html의 경우
-```swift
+EX.1)객체지향 프로그래밍   
+```java
+class Person{
+    private int age;
+    private int name;
+    
+    private String hobby;
+    private int hobby_id;
+    private String school;
+    private int school_id;
+    private String phoneNumber;
+    private int gender;
+    private int pw;
+
+    public int getAge() {
+        return age;
+    }
+
+    public int getName() {
+        return name;
+    }
+
+    public void setAge(int age) {
+        if(age >=0){
+            this.age = age;
+        }
+        else
+            this.age = 0;
+    }
+}
+```
+
+EX.2)HTML
+```html
 <!DOCTYPE html>
 <html>
 	<head>
