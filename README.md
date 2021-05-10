@@ -115,7 +115,7 @@ react / view를 써보렴 -> 보일러플레이트
 ### Boilerplate : 상용구 라고도 함 
 최소한의 수정만을 거쳐 여러 곳에 필수적으로 사용되는 코드
 
-EX.1)객체지향 프로그래밍   
+`EX.1) 객체지향 프로그래밍`
 ```java
 class Person{
     private int age;
@@ -147,7 +147,7 @@ class Person{
 }
 ```
 
-EX.2)HTML
+`EX.2) HTML`
 ```html
 <!DOCTYPE html>
 <html>
