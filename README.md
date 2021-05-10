@@ -128,17 +128,18 @@ Angular - https://github.com/maximegris/angular-electron
 ### "Hello World"를 출력해보자 
 3줄이면 끝!	
 
-```swift
+```
 $ git clone https://github.com/electron/electron-quick-start 
 $ cd electron-quick-start
 $ npm install
 $ npm start
 ```
-	
-여기서 소스좀 고쳐서 해보자~
-	
 
-<br>  
+
+다음과 같이 진행이 된다
+![설치](https://user-images.githubusercontent.com/80228504/117667839-4d251a80-b1e0-11eb-86d8-2a81027b853d.PNG)   
+![실행](https://user-images.githubusercontent.com/80228504/117667845-4e564780-b1e0-11eb-86e9-0dc2fedc8f80.PNG)   
+	
 
 # 빌드는 어떻게 해?  
 굳이 어렵게 할필요는 없자너 ?  
@@ -150,12 +151,18 @@ electron-packager https://github.com/electron/electron-packager
 
 
 
-```swift
+```
 npm install yarn -g                // yarn 사용을 위해 npm으로부터 다운로드받자
 yarn add electron-builder --dev    // yarn을 통해 electron-builder를 다운로드받자 (--dev를 꼭 붙여주자 devDependency , dependency어디에 넣을것인지 정함. dev에 넣어줘야 잘동작)
 ```
 
 <br>  
+
+
+![일렉트론 빌더 설치](https://user-images.githubusercontent.com/80228504/117668078-8c536b80-b1e0-11eb-9d51-9582eba43db0.PNG)
+![일렉트론빌더 yarn으로 설치후](https://user-images.githubusercontent.com/80228504/117668088-8eb5c580-b1e0-11eb-9e3e-6a7f523cc671.PNG)
+
+
 
 다음을 추가하자  
 
@@ -165,12 +172,23 @@ yarn add electron-builder --dev    // yarn을 통해 electron-builder를 다운�
     "appId": "your.id"
   }
 ```
+![빌드 키값을 추가해주자](https://user-images.githubusercontent.com/80228504/117668675-22879180-b1e1-11eb-964e-454c831d67c6.PNG)
+
 
 <br>
   
-```swift
+```
 yarn electron-builder
 ```
 <br>
 
+
+![패키징](https://user-images.githubusercontent.com/80228504/117668215-b0af4800-b1e0-11eb-8558-aa9b6de4ba1b.PNG)
+![일렉트론빌더 패키징](https://user-images.githubusercontent.com/80228504/117668124-95443d00-b1e0-11eb-9d71-2d444653955c.PNG)
+
+
+
+
+
 -> 경로에 한글 안들어가게 주의할것 그러면 좀 수정해야할게 있음!
+![경로에 한글이 들어갈경우](https://user-images.githubusercontent.com/80228504/117668135-98d7c400-b1e0-11eb-90d4-f357deb54a6e.PNG)
