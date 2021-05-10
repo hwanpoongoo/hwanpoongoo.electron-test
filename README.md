@@ -168,8 +168,8 @@ React - https://github.com/electron-react-boilerplate/electron-react-boilerplate
 Angular - https://github.com/maximegris/angular-electron  
 
 		
-##. 4.2 HELLO WORLD!  
-### "Hello World"를 출력해보자 
+## 4.2 HELLO WORLD!  
+### 퀵스타트 보일러플레이트를 사용해서 "Hello World"를 출력해보자   
 3줄이면 끝!	
 
 ```
