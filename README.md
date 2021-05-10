@@ -183,7 +183,10 @@ $ npm start
 ![설치](https://user-images.githubusercontent.com/80228504/117667839-4d251a80-b1e0-11eb-86d8-2a81027b853d.PNG)    
 ![실행](https://user-images.githubusercontent.com/80228504/117667845-4e564780-b1e0-11eb-86e9-0dc2fedc8f80.PNG)     
 	
-
+	
+ 그러나.. exe파일로 뽑진 못했다    
+       
+          
 ## 파일/인스톨러 생성     
 Third-Party Package Tool을 사용해보자 !  
      
@@ -206,9 +209,9 @@ yarn add electron-builder --dev    // yarn을 통해 electron-builder를 다운�
 자동으로 디펜던시에 추가가 된다
 ![일렉트론빌더 yarn으로 설치후](https://user-images.githubusercontent.com/80228504/117668088-8eb5c580-b1e0-11eb-9e3e-6a7f523cc671.PNG)    
 
-
+    
    
-
+    
 
 ### package-json  : 빌드옵션을 기입해주자
 ```swift
