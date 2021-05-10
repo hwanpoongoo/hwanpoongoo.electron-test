@@ -159,7 +159,7 @@ class Person{
 </html>
 ```
 
-보일러 플레이트라 함은...   
+### 오픈소스에서 보일러 플레이트 
 hello world를 뿌려주는 템플릿 ~   
 보통 크로스 브라우징과 호환성을 위한 Modernizr, polyfill, Normalize 등이 적용된 템플릿 ~   
 
