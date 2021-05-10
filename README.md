@@ -60,22 +60,22 @@ https://github.com/sindresorhus/awesome-electron
 # 3. 일렉트론의 장/단점   
    
 ## 3-1. 장점    
-```swift
-- 크로스 플랫폼     
+
+### 크로스 플랫폼     
 윈도우, 리눅스, 맥 구분없이 개발 가능   
 리눅스/윈도우/맥 개발자 전부 고용할것인가?  웹개발자만 있으면...   
    
-- 노드 기반이다    
+### 노드 기반이다    
 npm 가능.   
 무수한 패키지들의 사용가능하다   
    
-- 웹으로 개발한 소스    
+### 웹으로 개발한 소스    
 수정쪼금하면 사용가능   
 
-- 편리한 ELECTRON API
+### 편리한 ELECTRON API
 데스크톱 앱에서만 쓰이는 기능?   
 ->편하게 쓸수있게 제공
-```   
+   
    
 API doc 👉https://www.electronjs.org/   
 API 관련 예제는 이 양반이 잘 정리해놓았다 👉 https://github.com/hokein/electron-sample-apps   
