@@ -206,3 +206,7 @@ yarn electron-builder
 # 완료
 ![패키징 완료후 디렉터리구조](https://user-images.githubusercontent.com/80228504/117668246-b86eec80-b1e0-11eb-87a2-a3560daefee8.PNG)
 
+dist 폴더가 생성되고, 해당 폴더안에 인스톨러 / exe파일이 생성된다
+
+
+
