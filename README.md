@@ -203,3 +203,6 @@ yarn electron-builder
 앵간하면 그냥 경로에 한글이 안들어가게 하자...   
 
 
+# 완료
+![패키징 완료후 디렉터리구조](https://user-images.githubusercontent.com/80228504/117668246-b86eec80-b1e0-11eb-87a2-a3560daefee8.PNG)
+
