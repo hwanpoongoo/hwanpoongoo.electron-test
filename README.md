@@ -179,7 +179,7 @@ yarn add electron-builder --dev    // yarn을 통해 electron-builder를 다운�
 ![빌드 키값을 추가해주자](https://user-images.githubusercontent.com/80228504/117668675-22879180-b1e1-11eb-964e-454c831d67c6.PNG)    
 
 지금은 default 빌드 옵션을 사용하였다   
-상세 옵션 정보는 다음을 참고하자 👉   
+상세 옵션 정보는 다음을 참고하자 👉 https://www.electron.build/configuration/configuration  
 
 
 
