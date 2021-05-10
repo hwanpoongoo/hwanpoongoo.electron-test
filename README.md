@@ -159,9 +159,9 @@ class Person{
 </html>
 ```
 
-단순 hello world를 뿌려주는 템플릿 ~
-크로스 브라우징과 호환성을 위한 Modernizr, polyfill, Normalize 등이 적용된 템플릿 ~
-등등..
+보일러 플레이트라 함은...   
+hello world를 뿌려주는 템플릿 ~   
+보통 크로스 브라우징과 호환성을 위한 Modernizr, polyfill, Normalize 등이 적용된 템플릿 ~   
 
 Vue - https://github.com/SimulatedGREG/electron-vue  
 React - https://github.com/electron-react-boilerplate/electron-react-boilerplate  
